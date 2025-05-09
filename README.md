@@ -9,10 +9,7 @@ This project leverages deep learning techniques to perform music style transfer 
 
 ```
 music-style-transfer/
-│
-├── classifier/                  # Genre classifier related files
-│   ├── evaluate_npy_mels.ipynb    
-│   └── genre_classifier_train.ipynb  
+
 │
 ├── cyclegan/                    # CycleGAN related files
 │   ├── cyclegan.py              
@@ -27,7 +24,11 @@ music-style-transfer/
 │       └── Rock/                
 │
 ├── diffwave/                    # DiffWave-related files for waveform generation
-│                  
+│
+├── classifier/                  # Genre classifier related files
+│   ├── evaluate_npy_mels.ipynb    
+│   └── genre_classifier_train.ipynb
+│               
 └── README.md                    # Project documentation
 ```
 
