@@ -39,7 +39,7 @@ music-style-transfer/
 - 🎶 **Mel Spectrogram Extraction**: Preprocess raw audio files into Mel spectrograms for CycleGAN input.
 - 🔁 **CycleGAN Model**: Performs music style transfer between genres, such as Pop and Rock.
 - 🎧 **DiffWave Reconstruction**: Utilizes DiffWave for reconstructing high-quality audio waveforms from the transformed spectrograms. https://github.com/lmnt-com/diffwave
-- 📊 **Genre Classifier**: Classifies music into genres, verifying the accuracy of the style transfer by validating the generated Mel spectrograms.
+- 📊 **Genre Classifier**: Classifies music into genres, verifying the accuracy of the style transfer.
 
 
 ---
