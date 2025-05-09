@@ -27,8 +27,7 @@ music-style-transfer/
 │       └── Rock/                
 │
 ├── diffwave/                    # DiffWave-related files for waveform generation
-│
-├──                   
+│                  
 └── README.md                    # Project documentation
 ```
 
